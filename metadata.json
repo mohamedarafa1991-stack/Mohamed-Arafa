@@ -1,0 +1,8 @@
+{
+  "name": "MedCore Pro - Clinic Management System",
+  "description": "A high-performance, modern clinic management system featuring AI-driven diagnostics, appointment conflict prediction, role-based access, and deep medical analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
